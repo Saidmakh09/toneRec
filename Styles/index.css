@@ -1,0 +1,39 @@
+
+html {
+  font-family: "Dosis", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: after;
+}
+
+p, 
+li
+{
+  text-align: center;
+
+}
+
+.div_input_Image{
+text-align: center;
+
+}
+
+label{
+
+    display: block;
+    width: 200px;
+    background: darksalmon;
+    color: #fff;
+    padding: 12px;
+    border-radius: 5px;
+    cursor: pointer;
+    
+  }
+
+.inputImage{
+  display: none;
+}
+
+
+
+
